@@ -1,7 +1,7 @@
 # vpsRupdate
 
 
-vpsRupdate.sh /
+vpsRupdate.sh \
 It will update 
 
 swap.sh
