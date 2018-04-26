@@ -1,8 +1,7 @@
 # vpsRupdate
 
-This will update your VPS Repo
 
-vpsRupdate.sh 
+vpsRupdate.sh /
 It will update 
 
 swap.sh
