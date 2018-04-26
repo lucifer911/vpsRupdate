@@ -1,3 +1,6 @@
+#/bin/bash
+
+
 sudo apt-get update
 sudo apt-get -y upgrade
 sudo apt-get -y autoremove
@@ -12,4 +15,4 @@ sudo aptitude -y install libqt5gui5 libqt5core5a libqt5webkit5-dev libqt5dbus5 q
 sudo add-apt-repository -y ppa:bitcoin/bitcoin
 sudo apt-get -y update
 sudo apt-get install -y libdb4.8-dev libdb4.8++-dev libdb5.3 libdb5.3++
-rm repo
+
