@@ -4,7 +4,7 @@
 vpsRupdate.sh \
 It will update 
 
-swap.sh
+swap.sh \
 It will create the swap
 
 
